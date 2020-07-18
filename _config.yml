@@ -14,18 +14,18 @@ url: "https://datoumaomi.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #note
-facebook_username: #note
-github_username:  datoumaomi
+twitter_username: #gaohaoyang126
+facebook_username: #gaohaoyang.water
+github_username:  643435675
 email: 120130190@QQ.com
-weibo_username: none
+weibo_username: 木口木木
 zhihu_username: https://www.zhihu.com/people/datoumaomi
 linkedIn_username: none
-dribbble_username:note
+dribbble_username:
 
 description_footer: 大头猫米的游戏圈！
 
-# comments~
+# comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
