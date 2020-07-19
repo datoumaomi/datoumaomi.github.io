@@ -11,7 +11,7 @@ brief-intro: Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datoumaomi.github.io" # the base hostname & protocol for your site
 
-permalink: /:title/:year/:month/:day/
+permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
