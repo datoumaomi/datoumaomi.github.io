@@ -49,19 +49,21 @@ type: page
 
 ## 联系我
 
-QQ 120130190
-Q群 188751527 197066890 957313169
-网盘 永硕E盘:
-http://cancandodo.ys168.com
-
-## 关于本站
-
-博客代码来自于
-https://blog.csdn.net/xudailong_blog/article/details/78762262
-
-感谢徐代龙提供的博客源码,让我能轻松搭建Github博客
-
-~欢迎使用~
+<p>QQ 120130190</p>
+<p>Q群 188751527 197066890 957313169</p>
+<p>网盘 永硕E盘:</p>
+<p>http://cancandodo.ys168.com</p>
+<p></p>
+<p>## 关于本站</p>
+<p></p>
+<p>博客代码来自于</p>
+<p>https://blog.csdn.net/xudailong_blog/article/details/78762262</p>
+<p></p>
+<p>感谢徐代龙提供的博客源码,让我能轻松搭建Github博客</p>
+<p></p>
+<p>~感谢使用~</p>
+<p></p>
+<p></p>
 
 
 {% include comments.html %}
