@@ -11,12 +11,12 @@ brief-intro: Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datoumaomi.github.io" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/:year/:month/:day/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  643435675
+github_username:  datoumaomi
 email: 120130190@QQ.com
 weibo_username: 木口木木
 zhihu_username: https://www.zhihu.com/people/datoumaomi
