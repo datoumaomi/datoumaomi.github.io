@@ -20,7 +20,8 @@ author: 大头猫米
 
 <details>
 <summary>历史更新记录</summary>
-<p> - 20200804  修复小bug</p>
+<p> - 20200804  修复卡死的bug</p>
+<p></p>
 <p> - 20200803  修复商店无法读取的bug</p>
 <p> - 20200802  更新修改器steam20200801更新版本</p>
 </details>
