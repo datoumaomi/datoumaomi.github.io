@@ -40,6 +40,7 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/DDD/daqianshjie/5.jpg)
 ![Image text](https://datoumaomi.github.io/pic/DDD/daqianshjie/2.jpg)
 ![Image text](https://datoumaomi.github.io/pic/DDD/daqianshjie/3.jpg)
+![Image text](https://datoumaomi.github.io/pic/DDD/daqianshjie/6.jpg)
 
 
 <p>正版游戏购买地址</p>
