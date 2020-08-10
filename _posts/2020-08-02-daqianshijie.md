@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【大千世界】steam版修改器20200810"
+title:  "【大千世界】steam版修改器20200811"
 categories: 收费修改器
 tags:  大千世界 收费修改器 steam 
 author: 大头猫米
@@ -13,13 +13,15 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20200810 修复了遇敌功能无效的bug
+ - 20200811 增加了装备的基础属性的修改
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
+ <p></p>
+  - 20200810 修复了遇敌功能无效的bug
   <p></p>
  -20200809  增加了钓鱼修改
    <p></p>
