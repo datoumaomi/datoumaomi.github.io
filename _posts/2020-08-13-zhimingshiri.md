@@ -35,22 +35,22 @@ author: 大头猫米
 <p>https://store.steampowered.com/app/740080/</p>
 <p></p>
 <p>修改器购买网址</p>
-<p>https://item.taobao.com/item.htm?id=624448489329</p>
+<p>https://item.taobao.com/item.htm?id=624622580677</p>
 <p></p>
 <p>[修改器和教学视频下载]</p>
 <p>永硕E盘:</p>
 <p>http://cancandodo.ys168.com</p>
 <p></p>
 <p>蓝奏云</p>
-<p>https://www.lanzoux.com/b0d8aj86f</p>
+<p>https://www.lanzoux.com/b0d8bak0d</p>
 <p></p>
 <p>皮皮盘</p>
 <p>https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/</p>
 <p></p>
 <p>百度</p>
 <p></p>
-链接：https://pan.baidu.com/s/1tsADogTSpGZTzg1CbqSn3A
+链接：https://pan.baidu.com/s/1N_NgfWUvMI46MpAZ52pYIw 
 <p></p>
-提取码：o209
+提取码：onsv
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
