@@ -47,7 +47,7 @@ http://cancandodo.ys168.com
 <p></p>
 蓝奏云
 <p></p>
-https://www.lanzous.com/b0d7ptl7i
+https://www.lanzoux.com/b0d8bnfab
 <p></p>
 皮皮盘
 <p></p>
