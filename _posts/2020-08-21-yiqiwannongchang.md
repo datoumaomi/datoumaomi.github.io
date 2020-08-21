@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/yyy/yiqiwannongchang/logo.JPG)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/logo.JPG)
 
 ##  更新日志
 
@@ -28,10 +28,11 @@ author: 大头猫米
 
 ## 修改器图片和下载地址
 
-![Image text](https://datoumaomi.github.io/pic/yyy/yiqiwannongchang/1.jpg)
-![Image text](https://datoumaomi.github.io/pic/yyy/yiqiwannongchang/2.jpg)
-![Image text](https://datoumaomi.github.io/pic/yyy/yiqiwannongchang/3.jpg)
-
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/1.jpg)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/2.jpg)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/3.jpg)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/4.jpg)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/5.jpg)
 
 <p>正版游戏购买地址</p>
 https://store.steampowered.com/app/673950
