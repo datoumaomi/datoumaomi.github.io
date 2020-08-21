@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/logo.JPG)
+![Image text](https://datoumaomi.github.io/pic/YYY/yiqiwannongchang/logo.jpg)
 
 ##  更新日志
 
