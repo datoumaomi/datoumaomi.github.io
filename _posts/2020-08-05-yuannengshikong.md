@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【元能失控】steam版、Wegame版1.0.19版修改器20200805"
+title:  "【元能失控】steam版、Wegame版1.0.19版修改器20200824"
 categories: 收费修改器
 tags:  元能失控 收费修改器 steam wegame
 author: 大头猫米
@@ -13,13 +13,15 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20200804  更新修改器支持1.0.19版本(仅限64位版系统)
+ - 20200824  修复零击必杀无效的bug
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
+<p></p>
+ - 20200804  更新修改器支持1.0.19版本(仅限64位版系统)
 <p>无</p>
 </details>
 
