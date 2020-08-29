@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "【太吾绘卷】V0.2.8.4版修改器20200829"
+title:  "【嗜血印】Steam版修改器20200829"
 categories: 收费修改器
-tags:  太吾绘卷 收费修改器 steam
+tags:  嗜血印 收费修改器 steam
 author: 大头猫米
 ---
 
