@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【尼罗河勇士】Steam版V1.0102修改器20200825~"
+title:  "【尼罗河勇士】V1.0202修改器20200831"
 categories: 收费修改器
 tags:  尼罗河勇士 收费修改器 steam
 author: 大头猫米
@@ -13,14 +13,16 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20200825  支持Steam版V1.0102版
+ - 20200831  支持Steam版V1.0202版
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
-<p>无</p>
+<p></p>
+ - 20200825  支持Steam版V1.0102版
+<p></p>
 </details>
 
 ## 相关视频
