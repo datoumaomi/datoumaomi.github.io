@@ -40,7 +40,7 @@ https://store.steampowered.com/app/535930
 <p></p>
 修改器购买网址
 <p></p>
-https://store.steampowered.com/app/535930
+https://item.taobao.com/item.htm?id=576255004472
 <p></p>
 【修改器和教学视频下载】
 <p></p>
