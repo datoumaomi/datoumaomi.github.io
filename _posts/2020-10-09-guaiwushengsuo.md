@@ -13,7 +13,7 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20201004  增加了速度修改功能
+ - 20201009  修改器发布
 
 
 
@@ -21,11 +21,7 @@ author: 大头猫米
 <details>
 <summary>历史更新记录</summary>
  <p></p>
- - 20200930  支持0.8.6版
- <p></p>
-  - 20200930  修复一击必杀、零击必杀、我方无敌可能无效的bug
- <p></p>
-  - 20200925  支持0.8.5版
+无
  <p></p>
 </details>
 
@@ -41,13 +37,13 @@ author: 大头猫米
 
 
 <p>正版游戏购买地址</p>
-https://store.steampowered.com/app/814370/Monster_Sanctuary/
+https://store.steampowered.com/app/814370/
 <p></p>
 
 <p></p>
 修改器购买网址
 <p></p>
-https://store.steampowered.com/app/1335240/
+https://item.taobao.com/item.htm?id=628596524975
 <p></p>
 【修改器和教学视频下载】
 <p></p>
@@ -57,7 +53,7 @@ http://cancandodo.ys168.com
 <p></p>
 蓝奏云
 <p></p>
-https://www.lanzoux.com/b0d8euw6j
+https://www.lanzoux.com/b0d8fvzve
 <p></p>
 皮皮盘
 <p></p>
@@ -65,8 +61,8 @@ https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/1kwQrFgyq4HKZEdEGb1xZqg
+https://pan.baidu.com/s/1ImX0bIRiT_JwqFsKxFvyXQ 
 <p></p>
-提取码：sxzk
+提取码：e0r6
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
