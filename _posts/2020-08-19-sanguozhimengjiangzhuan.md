@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【三国志猛将传】Steam版v0.0.6修改器20200819"
+title:  "【三国志猛将传】V0.1.0版修改器20201024"
 categories: 收费修改器
 tags:  三国志猛将传 收费修改器 steam wegame
 author: 大头猫米
@@ -13,14 +13,14 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20200819  支持Steam版v0.0.6版
+ - 20201024  【三国志猛将传】V0.1.0版修改器20201024
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
-<p>无</p>
+<p> - 20200819  支持Steam版v0.0.6版</p>
 </details>
 
 ## 相关视频
