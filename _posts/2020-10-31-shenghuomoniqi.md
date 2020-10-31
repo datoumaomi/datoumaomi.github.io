@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/sss/shenghuomoniqi/logo.JPG)
+![Image text](https://datoumaomi.github.io/pic/sss/shenghuomoniqi/logo.jpg)
 
 ##  更新日志
 
