@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "【帝国时代3决定版】v100.12.5025.0版修改器20201031"
+title:  "【生活模拟器】V1.0.1版修改器20201031"
 categories: 收费修改器
-tags:  怪物圣所 收费修改器 steam epic
+tags:  生活模拟器 收费修改器 steam 方块
 author: 大头猫米
 ---
 
@@ -13,7 +13,7 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20201031 【帝国时代3决定版】v100.12.5025.0版修改器20201031
+ - 20201031 【生活模拟器】V1.0.1版修改器20201031
 
 
 
@@ -21,16 +21,8 @@ author: 大头猫米
 <details>
 <summary>历史更新记录</summary>
 <p></p>
- - 20201028 支持100.12.4087.0版
+无
 <p></p>
--20201023 支持v100.12.3552.0版
-<p></p>
- - 20201019  增加了HP修改,可以无敌了
-<p></p>
-  - 20201018  增加了研究速度修改、建筑速度修改、生产速度修改、经验增加速度修改
- <p></p>
- - 20201017  修改器发布
- <p></p>
 </details>
 
 ## 相关视频
@@ -44,13 +36,15 @@ author: 大头猫米
 
 
 <p>正版游戏购买地址</p>
-https://store.steampowered.com/app/933110
+https://store.steampowered.com/app/1399090/
+<p></p>
+https://store.cubejoy.com/html/en/store/goodsdetail/detail11468.html
 <p></p>
 
 <p></p>
 修改器购买网址
 <p></p>
-https://item.taobao.com/item.htm?id=629656777431
+https://item.taobao.com/item.htm?id=631285063543
 <p></p>
 【修改器和教学视频下载】
 <p></p>
@@ -60,7 +54,8 @@ http://cancandodo.ys168.com
 <p></p>
 蓝奏云
 <p></p>
-https://www.lanzoux.com/b0d8gixwb
+https://datoumaomi.lanzoux.com/b0d8hmmha
+
 <p></p>
 皮皮盘
 <p></p>
@@ -68,8 +63,8 @@ https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/1ncx3gzAjeXjHDifFRJR7JQ 
+https://pan.baidu.com/s/15dfFuv8uloOsmp5QNXio6w 
 <p></p>
-提取码：omqk
+提取码：jl4o 
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
