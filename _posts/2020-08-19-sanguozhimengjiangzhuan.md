@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【三国志猛将传】V0.1.1版修改器20201104"
+title:  "【三国志猛将传】V0.1.2版修改器20201114"
 categories: 收费修改器
 tags:  三国志猛将传 收费修改器 steam
 author: 大头猫米
@@ -12,14 +12,16 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/sss/sanguozhimengjiangzhuan/logo.JPG)
 
 ##  更新日志
+  - 2020.10.14    - 20201104  【三国志猛将传】V0.1.1版修改器20201104 增加了战场修改.可以方便无敌和秒杀了
 
- - 20201104  【三国志猛将传】V0.1.1版修改器20201104
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
+ <p></p>
+  - 20201104  【三国志猛将传】V0.1.1版修改器20201104
  <p></p>
   - 20201024  【三国志猛将传】V0.1.0版修改器20201024
 <p> - 20200819  支持Steam版v0.0.6版</p>
