@@ -32,7 +32,6 @@ author: 大头猫米
 
 ![Image text](https://datoumaomi.github.io/pic/fff/feiyibanzhichang/0.jpg)
 ![Image text](https://datoumaomi.github.io/pic/fff/feiyibanzhichang/1.jpg)
-![Image text](https://datoumaomi.github.io/pic/fff/feiyibanzhichang/2.jpg)
 
 
 <p>正版游戏购买地址</p>
@@ -58,8 +57,8 @@ https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/1rYtNBGXuvECrKCM8eF2iZg 
+https://pan.baidu.com/s/1chBTtaCBOl6abwVlr-Ao7A
 <p></p>
-提取码：sncs 
+提取码：n6ks 
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
