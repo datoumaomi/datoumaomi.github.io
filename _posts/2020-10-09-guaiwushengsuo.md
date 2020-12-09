@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【怪物圣所】Steam版修改器20201009"
+title:  "【怪物圣所】1.0.1.19版修改器20201209"
 categories: 收费修改器
 tags:  怪物圣所 收费修改器 steam epic
 author: 大头猫米
@@ -13,7 +13,7 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20201009  修改器发布
+ - 20201209    【怪物圣所】1.0.1.19版修改器20201209
 
 
 
@@ -21,7 +21,7 @@ author: 大头猫米
 <details>
 <summary>历史更新记录</summary>
  <p></p>
-无
+ - 20201009  修改器发布
  <p></p>
 </details>
 
