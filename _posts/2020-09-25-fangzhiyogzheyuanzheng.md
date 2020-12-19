@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【放置勇者：远征】0.8.15版修改器20201204"
+title:  "【放置勇者：远征】0.8.17版修改器20201218"
 categories: 收费修改器
 tags:  放置勇者远征 收费修改器 steam epic
 author: 大头猫米
@@ -12,14 +12,16 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/fff/fangzhiyongzheyuanzheng/logo.jpg)
 
 ##  更新日志
--20201204  【放置勇者：远征】0.8.15版修改器20201204   
+【放置勇者：远征】0.8.17版修改器20201218
+
 
 
 
 
 
 <details>
-<summary>历史更新记录</summary>
+<summary>历史更新记录</summary><p></p>
+ -20201204  【放置勇者：远征】0.8.15版修改器20201204   
  <p></p>
  -20201127    【放置勇者：远征】0.8.14版修改器20201127
  <p></p>
