@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "【咏叹调编年史】【ARIA CHRONICLE】Steam版V1.0.1.3b修改器20201029"
+title:  "【咏叹调编年史】V1.0.2.1b修改器20201224"
 categories: 收费修改器
-tags:  怪物圣所 收费修改器 steam epic
+tags:  咏叹调编年史 收费修改器 steam
 author: 大头猫米
 ---
 
@@ -13,13 +13,16 @@ author: 大头猫米
 
 ##  更新日志
 
- - 20201029   支持Steam版V1.0.1.3b版
+【咏叹调编年史】V1.0.2.1b修改器20201224
+
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
+ <p></p>
+  - 20201029   支持Steam版V1.0.1.3b版
  <p></p>
   - 20201014  修改器发布
  <p></p>
