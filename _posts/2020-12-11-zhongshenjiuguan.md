@@ -43,6 +43,8 @@ author: 大头猫米
 
 ![Image text](https://datoumaomi.github.io/pic/zzz/zhongshenjiuguan/0.jpg)
 ![Image text](https://datoumaomi.github.io/pic/zzz/zhongshenjiuguan/1.jpg)
+![Image text](https://datoumaomi.github.io/pic/zzz/zhongshenjiuguan/2.jpg)
+![Image text](https://datoumaomi.github.io/pic/zzz/zhongshenjiuguan/3.jpg)
 
 
 <p>正版游戏购买地址</p>
