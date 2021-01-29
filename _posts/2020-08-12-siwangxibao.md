@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【死亡细胞】【Dead Cells】Steam版v2.0版修改器20200812"
+title:  "【死亡细胞】Steam版Epic版V22版修改器20210128"
 categories: 收费修改器
 tags:  死亡细胞 收费修改器 steam 
 author: 大头猫米
@@ -12,15 +12,19 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/sss/siwanxibao/logo.jpg)
 
 ##  更新日志
+【死亡细胞】Steam版V22版修改器20210128
 
- - 20200812  更新修改器支持V2.0版
 
 
 
 
 <details>
-<summary>历史更新记录</summary>
-<p>无</p>
+<summary>历史更新记录</summary><p></p>
+【死亡细胞】Steam版V22版修改器20210128<p></p>
+ 【死亡细胞】Epic版v22版修改器20210121<p></p>
+【死亡细胞】Epic版v2.1版修改器20201223<p></p>
+【死亡细胞】Steam版v2.1版修改器20201223<p></p>
+  - 20200812  更新修改器支持V2.0版<p></p>
 </details>
 
 ## 相关视频
