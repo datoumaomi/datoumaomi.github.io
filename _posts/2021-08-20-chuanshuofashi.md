@@ -50,9 +50,9 @@ http://cancandodo.ys168.com
 <p></p>
 蓝奏云
 <p></p>
-https://datoumaomi.lanzoui.com/b0d95q48b
+https://datoumaomi.lanzoui.com/b0d9b1s3g
 <p></p>
-密码:hekh
+密码:cddk
 <p></p>
 皮皮盘
 <p></p>
@@ -60,13 +60,13 @@ https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/1VrGi2SzB5fydoig0zeYFIw
+https://pan.baidu.com/s/16ZwEe1x97V53PNW5gaWDsA
 <p></p>
-提取码：3z94 
+提取码：kh9t 
 <p></p>
 微云
 <p></p>
-https://share.weiyun.com/leU43iC2
+https://share.weiyun.com/Tow6xDT2
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
 
