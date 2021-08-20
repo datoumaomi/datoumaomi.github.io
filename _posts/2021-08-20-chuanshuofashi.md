@@ -29,8 +29,7 @@ author: 大头猫米
 
 ## 修改器图片和下载地址
 
-![Image text](https://datoumaomi.github.io/pic/ccc/chuanshuofashi/传说法师 (2).png)
-![Image text](https://datoumaomi.github.io/pic/ccc/chuanshuofashi/传说法师 (1.png)
+![Image text](https://datoumaomi.github.io/pic/ccc/chuanshuofashi/传说法师 (1).png)
 
 <p>正版游戏购买地址</p>
 https://store.steampowered.com/app/445980/
