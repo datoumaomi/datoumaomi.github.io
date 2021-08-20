@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【怪物圣所】1.0.1.19版修改器20201209"
+title:  "【怪物圣所】Steam版1.2.0.24版修改器20210820"
 categories: 收费修改器
 tags:  怪物圣所 收费修改器 steam epic
 author: 大头猫米
@@ -12,17 +12,18 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/logo.jpg)
 
 ##  更新日志
+【怪物圣所】Steam版1.2.0.24版修改器20210820 日常更新
 
- - 20201209    【怪物圣所】1.0.1.19版修改器20201209
 
 
 
 
 <details>
-<summary>历史更新记录</summary>
- <p></p>
- - 20201009  修改器发布
- <p></p>
+<summary>历史更新记录</summary><p></p>
+【怪物圣所】修改器20201009<p></p>
+ 【怪物圣所】0.10.2.7版修改器20201205<p></p>
+ 【怪物圣所】1.0.1.19版修改器20201209<p></p>
+ 【怪物圣所】1.1.0.17版修改器20210415<p></p>
 </details>
 
 ## 相关视频
