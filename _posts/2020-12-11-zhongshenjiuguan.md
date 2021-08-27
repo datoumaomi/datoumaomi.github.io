@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【众神酒馆】V1.0.0版修改器20210821"
+title:  "【众神酒馆】V1.0.1版修改器20210828"
 categories: 收费修改器
 tags:  众神酒馆 收费修改器 steam
 author: 大头猫米
@@ -12,7 +12,8 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/zzz/zhongshenjiuguan/logo.JPG)
 
 ##  更新日志
-【众神酒馆】V1.0.0版修改器20210821
+【众神酒馆】V1.0.1版修改器20210828
+
 
 
 
@@ -39,6 +40,7 @@ author: 大头猫米
  【众神酒馆】V0.9.04版修改器20210804<p></p>
  【众神酒馆】V0.9.05版修改器20210815<p></p>
 【众神酒馆】V0.9.05版修改器20210815<p></p>
+ 【众神酒馆】V1.0.0版修改器20210821<p></p>
 </details>
 
 ## 相关视频
