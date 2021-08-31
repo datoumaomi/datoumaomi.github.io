@@ -13,7 +13,7 @@ author: 大头猫米
 
 ##  更新日志
 
-【传说法师】steam版V1.23.4版修改器20210820
+【汽车帝国】Steam版修改器20210901
 
 
 
@@ -40,9 +40,9 @@ https://item.taobao.com/item.htm?id=594179304057
 <p></p>
 【修改器和教学视频下载】
 <p></p>
-http://datoumaomi.cn/2021/08/20/chuanshuofashi/
+http://datoumaomi.cn/2021/09/01/qichediguo/
 <p></p>
-https://tieba.baidu.com/p/7503367789
+https://tieba.baidu.com/p/7521836976
 <p></p>
 永硕E盘:
 <p></p>
@@ -50,9 +50,9 @@ http://cancandodo.ys168.com
 <p></p>
 蓝奏云
 <p></p>
-https://datoumaomi.lanzoui.com/b0d9biilg
+https://datoumaomi.lanzoui.com/b0d9ch4hi
 <p></p>
-密码:8334
+密码:41wl
 <p></p>
 皮皮盘
 <p></p>
@@ -60,13 +60,13 @@ https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/19eNu0sk8w8xRfl9Xm3-9JQ
+https://pan.baidu.com/s/1mJSqpYgjxTTg8OWPhgI7_w
 <p></p>
-
+提取码  a28i
 <p></p>
 微云
 <p></p>
-https://share.weiyun.com/CdmPghfl
+https://share.weiyun.com/9BnRba74
 <p></p>
 <p>秋裙 188751527 197066890 957313169</p>
 
