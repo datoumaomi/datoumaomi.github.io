@@ -22,7 +22,7 @@ author: 大头猫米
 <details>
 <summary>历史更新记录</summary><p></p>
 【仙剑奇侠传3】Steam版V1.04版修改器20211007<p></p>
-  
+</details>
   
   
 
