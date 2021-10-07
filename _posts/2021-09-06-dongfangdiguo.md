@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/yyy/yuansutafang2/1.jpg)
+![Image text](https://datoumaomi.github.io/pic/DDD/dongfangdiguo/东方帝国 (1).jpg)
 
 ##  更新日志
 
@@ -29,9 +29,9 @@ author: 大头猫米
 
 ## 修改器图片和下载地址
 
-![Image text](https://datoumaomi.github.io/pic/yyy/yuansutafang2/2.png)
-![Image text](https://datoumaomi.github.io/pic/yyy/yuansutafang2/3.png)
-![Image text](https://datoumaomi.github.io/pic/yyy/yuansutafang2/4.png)
+![Image text](https://datoumaomi.github.io/pic/DDD/dongfangdiguo/东方帝国 (1).jpg)
+![Image text](https://datoumaomi.github.io/pic/DDD/dongfangdiguo/东方帝国 (1).png)
+![Image text](https://datoumaomi.github.io/pic/DDD/dongfangdiguo/东方帝国 (2).png)
 
 
 <p>正版游戏购买地址</p>
