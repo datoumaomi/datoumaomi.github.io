@@ -12,8 +12,8 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/bbb/buluoxingcunzhe/部落幸存者 (1).jpg)
 
 ##  更新日志
+【部落幸存者】V0.84.204.769版修改器20211211
 
-【部落幸存者】V0.84.180.695版修改器20211029<p></p>
 
 
 
@@ -22,7 +22,7 @@ author: 大头猫米
 
 <details>
 <summary>历史更新记录</summary><p></p>
-
+【部落幸存者】V0.84.180.695版修改器20211029<p></p>
 </details>
 
 
