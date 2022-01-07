@@ -12,17 +12,15 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/ccc/chenmodewangguo/沉没的王国.jpg)
 
 ##  更新日志
+沉没的王国 Dredgers steam版修改器20211229
 
-【帝国时代4】V5.0.8324修改器先行版20211202
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
- 
-【帝国时代4】V5.0.8324修改器先行版20211202<p></p>
-【帝国时代4】V5.0.7989修改器先行版20211117<p></p>
+
 </details>
 
 ## 相关视频
