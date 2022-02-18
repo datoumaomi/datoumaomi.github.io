@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【元素塔防2】Element TD 2 steam版V1.2.4版修改器20210914"
+title:  "【元素塔防2】Element TD 2 steam版 V1.4.4版修改器20220218"
 categories: 收费修改器
 tags:  元素塔防 Element 收费修改器 steam
 author: 大头猫米
@@ -13,7 +13,7 @@ author: 大头猫米
 
 ##  更新日志
 
-【元素塔防2】V1.2.4版修改器20210914 日常更新
+【元素塔防2】V1.4.4版修改器20220218
 
 
 
@@ -29,6 +29,13 @@ author: 大头猫米
 【元素塔防2】V1.2.2版修改器20210826 日常更新<p></p>
 【元素塔防2】V1.2.3版修改器20210906 日常更新<p></p>
 【元素塔防2】V1.2.3版修改器20210906 日常更新 <p></p>
+【元素塔防2】V1.2.4版修改器20210914 日常更新<p></p>
+【元素塔防2】V1.3版修改器20211014 日常更新<p></p>
+【元素塔防2】V1.3.1版修改器20211022 日常更新<p></p>
+【元素塔防2】V1.4.1版修改器20211214~<p></p>
+【元素塔防2】V1.4.2版修改器20220105<p></p>
+【元素塔防2】V1.4.3版修改器20220125<p></p>
+【元素塔防2】V1.4.4版修改器20220218<p></p>
 <p></p>
 </details>
 
@@ -56,7 +63,7 @@ https://tieba.baidu.com/p/7460681210
 <p></p>
 永硕E盘:
 <p></p>
-http://cancandodo.ys168.com
+http://cancandodo.ysepan.com
 <p></p>
 蓝奏云
 <p></p>
@@ -66,11 +73,12 @@ https://datoumaomi.lanzoui.com/b0d97w84j
 <p></p>
 皮皮盘
 <p></p>
-https://datoumaomi.pipipan.com/dir/1034273-29312464-6b6664/
+https://url73.ctfile.com/d/1034273-29312464-975b89
 <p></p>
+密码 5889 <p></p>
 百度
 <p></p>
-https://pan.baidu.com/s/1kW1sIy68PnBCH90gBiI0CA 
+https://pan.baidu.com/s/1kW1sIy68PnBCH90gBiI0CA?pwd=y5d1
 <p></p>
 提取码  y5d1 
 <p></p>
