@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VampireSurvivors吸血鬼幸存者steam版修改器"
+title:  "吸血鬼幸存者 steam v0.3.0c trainer 20220306"
 categories: 收费修改器
 tags:  VampireSurvivors 吸血鬼幸存者 steam trainer 收费修改器
 author: 大头猫米
@@ -14,7 +14,7 @@ author: 大头猫米
 
 ##  更新日志
 
-Vampire Survivors steam v0.3.0b trainer 20220303
+吸血鬼幸存者 steam v0.3.0c trainer 20220306<p></p>
 
 
 
@@ -22,7 +22,11 @@ Vampire Survivors steam v0.3.0b trainer 20220303
 
 <details>
 <summary>历史更新记录</summary>
+吸血鬼幸存者 steam v0.3.0c trainer 20220306<p></p>
+重要更新,修复了win7下无效的bug<p></p>
+修复了面板上属性不全的情况下无法读取和修改的bug<p></p>
 Vampire Survivors steam v0.3.0b trainer 20220303<p></p>
+
 
 </details>
 
