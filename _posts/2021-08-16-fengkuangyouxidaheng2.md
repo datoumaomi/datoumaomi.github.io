@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【疯狂游戏大亨2】2022.03.01A修改器20220301"
+title:  "【疯狂游戏大亨2】2022.03.17A修改器20220319"
 categories: 收费修改器
 tags:  疯狂游戏大亨2 收费修改器 steam
 author: 大头猫米
@@ -12,7 +12,7 @@ author: 大头猫米
 ![Image text](https://datoumaomi.github.io/pic/fff/fengkuangyouxidahen2/fengkuang2 (1).jpg)
 
 ##  更新日志
-【疯狂游戏大亨2】2022.03.01A修改器20220301
+【疯狂游戏大亨2】2022.03.17A修改器20220319
 
 
 
@@ -22,6 +22,7 @@ author: 大头猫米
 
 <details>
 <summary>历史更新记录</summary><p></p>
+【疯狂游戏大亨2】2022.03.17A修改器20220319<p></p>
  【疯狂游戏大亨2】2022.03.01A修改器20220301
 <p></p>
   =====累计更新=====<p></p>
