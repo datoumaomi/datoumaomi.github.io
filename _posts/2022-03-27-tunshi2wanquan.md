@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/sss/sujunyoujidui1941/苏军游击队1941 (1).png)
+![Image text](https://datoumaomi.github.io/pic/ttt/tunshitiandi2wanquan/吞食天地2完全版诸葛孔明传 (1).png)
 
 
 ##  更新日志
