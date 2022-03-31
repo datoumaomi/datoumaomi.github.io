@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "吸血鬼幸存者 steam v0.3.1c trainer 20220313"
+title:  "吸血鬼幸存者 steam v0.3.2c trainer 20220331"
 categories: 收费修改器
 tags:  VampireSurvivors 吸血鬼幸存者 steam trainer 收费修改器
 author: 大头猫米
@@ -13,19 +13,19 @@ author: 大头猫米
 
 
 ##  更新日志
+吸血鬼幸存者 steam v0.3.2c trainer 20220331
+修复了win7下白屏的bug
 
-吸血鬼幸存者 steam v0.3.1c trainer 20220313
-
-增加了磁铁修改，可以全屏拾取了
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
+吸血鬼幸存者 steam v0.3.2c trainer 20220331<p></p>
+修复了win7下白屏的bug<p></p>
 吸血鬼幸存者 steam v0.3.1c trainer 20220313<p></p>
 增加了磁铁修改，可以全屏拾取了<p></p>
-  
 Vampire Survivors steam v0.3.0c trainer 20220308<p></p>
 重要更新 整合了win7和win10、win11在同一个修改器里<p></p>
 重要更新 内置了进程选择器,自动按内存大小排序,可以直接选进程抓取,不用输入pid了<p></p>
