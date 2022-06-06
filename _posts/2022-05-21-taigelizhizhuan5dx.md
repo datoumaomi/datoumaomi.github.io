@@ -10,25 +10,7 @@ author: 大头猫米
 {:toc}
 
 ![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁立志传5 (2).jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-01.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-02.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-03.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-04.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-05.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-06.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-07.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-08.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-09.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-10.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-11.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-12.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-13.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-14.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-15.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-16.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-17.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-18.jpg)
-![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-19.jpg)
+
 
 
 
