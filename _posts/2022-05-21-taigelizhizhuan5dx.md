@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【太阁立志传5DX】Steam版修改器先行版20220603"
+title:  "【太阁立志传5DX】Steam版修改器20220606"
 categories: 收费修改器
 tags:  太阁立志传5 steam 收费修改器
 author: 大头猫米
@@ -10,6 +10,27 @@ author: 大头猫米
 {:toc}
 
 ![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁立志传5 (2).jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-01.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-02.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-03.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-04.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-05.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-06.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-07.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-08.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-09.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-10.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-11.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-12.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-13.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-14.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-15.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-16.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-17.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-18.jpg)
+![Image text](https://datoumaomi.github.io/pic/ttt/taigelizhizhuan5/太阁5-19.jpg)
+
+
 
 
 ##  更新日志
@@ -129,8 +150,35 @@ author: 大头猫米
 太阁立志传5DX修改器先行版20220603<p></p>
 增加了武将的俸禄、野心、忠诚的修改<p></p>
 增加了一键超神、一键废柴的修改<p></p>
-增加了势力修改
+增加了势力修改<p></p>
 <p></p>
+太阁立志传5DX修改器先行版20220604<p></p>
+修复了势力修改无效的bug<p></p>
+增加了繁体支持.玩繁体版不会显示乱码了<p></p>
+或者在繁体系统下,可以正常显示名字<p></p>
+为了考虑非简体中文环境使用修改器的问题,修改器名字改为纯英文数字的名字<p></p>
+授权也改为英文<p></p>
+实际上繁体版比简体版有一个好处就是,简体版有些生僻字,修改器上会显示为空白<p></p>
+繁体版的话,就可以正常显示.<p></p>
+<p></p>
+太阁立志传5DX修改器先行版20220605<p></p>
+修复了繁体模式下势力大名乱码的bug<p></p>
+增加了据点规模修改<p></p>
+增加了指定武将复活或下野的修改<p></p>
+增加了全死亡武将复活的修改<p></p>
+另外..发现本修改器的代码已经到20000多行了..<p></p>
+不愧是有情怀的游戏.爆肝.<p></p>
+<p></p>
+太阁立志传5DX修改器正式版20220606<p></p>
+增加了官位修改<p></p>
+增加了存款修改<p></p>
+所有查找框在输入文字后按回车即可查找,无需点击查找按钮<p></p>
+增加了武将浪人头像和职业头像的修改<p></p>
+修复了变更主角时头像不正确的bug<p></p>
+<p></p>
+经过长达2周多的施工,修改器算比较完善了,修改器从先行版升级到正式版<p></p>
+当然正式版不意味着结束,还是有些功能可以继续添加的.<p></p>
+
 
 
 
