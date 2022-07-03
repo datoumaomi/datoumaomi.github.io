@@ -35,8 +35,8 @@ author: 大头猫米
 ## 修改器图片和下载地址
 
 ![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/0.jpg)
-![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/怪物圣所 (1).png)
-![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/怪物圣所 (2).png)
+![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/怪物圣所 (1).jpg)
+![Image text](https://datoumaomi.github.io/pic/ggg/guaiwushengsuo/怪物圣所 (2).jpg)
 
 
 
