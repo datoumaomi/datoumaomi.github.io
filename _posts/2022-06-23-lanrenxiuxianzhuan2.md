@@ -9,7 +9,7 @@ author: 大头猫米
 * content
 {:toc}
 
-![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (1).jpg)
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (3).jpg)
 
 
 
@@ -162,11 +162,12 @@ author: 大头猫米
 ## 修改器图片和下载地址
 
 ![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (2).jpg)
-![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (1).jpg)
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (3).jpg)
 ![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (1).png)
-![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (2).png)
-![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (3).png)
-
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (4).png)
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (5).png)
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (6).png)
+![Image text](https://datoumaomi.github.io/pic/LLL/lanrenxiuxianzhuan2/懒人修仙传2 (7).png)
 
 
 
