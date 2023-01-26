@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "诺德森防线Steam版V0.1.3a2版修改器20220429"
+title:  "诺德森防线Steam版修改器"
 categories: 收费修改器
 tags:  诺德森防线 steam 收费修改器
 author: 大头猫米
@@ -14,15 +14,16 @@ author: 大头猫米
 
 ##  更新日志
 
-诺德森防线Steam版V0.1.3a2版修改器20220429
+只要不是不可抗力都更新<p></p>
 
+不可抗力包括但不限于被版权费投诉下架、游戏强加密反修改，生老病死退休等<p></p>
 
 
 
 
 <details>
 <summary>历史更新记录</summary>
-诺德森防线Steam版V0.1.3a2版修改器20220429
+
 
 
 </details>
