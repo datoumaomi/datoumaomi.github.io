@@ -104,3 +104,20 @@ https://share.weiyun.com/VYMxD99I
 <p></p>
 Q群 519096015 188751527 197066890 957313169
 <p></p>
+
+其他更新网址
+<p></p>
+https://app.yinxiang.com/fx/4a5fa689-d177-4c9d-9934-98d5080e2d9a
+<p></p>
+<p></p>
+https://www.jianguoyun.com/p/DX56j-wQ7NCLBhiZgrQFIAA
+<p></p>
+<p></p>
+https://tieba.baidu.com/p/8890305226
+<p></p>
+<p></p>
+http://datoumaomi.cn/2024/02/07/chuangzaodushidaoyuwu/
+<p></p>
+<p></p>
+https://datoumaomi.github.io/2024/02/07/chuangzaodushidaowuyu/
+<p></p>
