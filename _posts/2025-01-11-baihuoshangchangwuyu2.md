@@ -38,10 +38,10 @@ author: 大头猫米
 ## 修改器图片和下载地址
 
 ![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (5).jpg)
-![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (1).jpg)
-![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (2).jpg)
-![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (3).jpg)
-![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (4).jpg)
+![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (1).png)
+![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (2).png)
+![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (3).png)
+![Image text](https://datoumaomi.github.io/pic/bbb/baihuoshangchangwuyu2/百货商场物语2 (4).png)
 
 
 
